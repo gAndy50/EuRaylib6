@@ -22,7 +22,7 @@ if ray = 0 then
 	abort(0)
 end if
 
-printf(1,"%d",{ray})
+--printf(1,"%d",{ray})
 
 public constant RAYLIB_VERSION_MAJOR = 6
 public constant RAYLIB_VERSION_MINOR = 0
@@ -4034,4 +4034,4 @@ end procedure
 public procedure SetAudioStreamPan(sequence stream, atom pan)
     c_proc(xSetAudioStreamPan, {stream, pan})
 end procedure
-­3723.0
+­25.2
