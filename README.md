@@ -1,4 +1,4 @@
-# EuRaylib6
+# EuRaylib 6
 Wrapper of Raylib v 6 for openEuphoria
 
 # ABOUT
