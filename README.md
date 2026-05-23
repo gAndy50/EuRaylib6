@@ -6,6 +6,7 @@ A wrapper of Raylib version 6 for openEuphoria.
 
 # EXAMPLE
 ```euphoria
+include std/ffi.e
 include raylib.e
 
 atom width = 800
